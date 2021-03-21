@@ -1,0 +1,79 @@
+{
+    "nodes": [
+      {
+        "id": "0",
+        "name": "F_RD_BOND_INFO",
+        "symbolSize": 2.6666666666666666,
+        "value": 5,
+        "category": 1
+      },
+      {
+        "id": "1",
+        "name": "S_STP_DMSEC",
+        "symbolSize": 2.6666666666666666,
+        "value": 1,
+        "category": 2
+      },
+      {
+        "id": "2",
+        "name": "S_WDS_CBONDDESCRIPTION",
+        "symbolSize": 2.6666666666666666,
+        "value": 1,
+        "category": 2
+      },
+      {
+        "id": "3",
+        "name": "S_STP_DMBOND",
+        "symbolSize": 2.6666666666666666,
+        "value": 1,
+        "category": 2
+      },
+      {
+        "id": "4",
+        "name": "I_SUM_RD_BONDDEF",
+        "symbolSize": 2.6666666666666666,
+        "value": 1,
+        "category": 0
+      },
+      {
+        "id": "5",
+        "name": "I_SUM_RD_CALLSCH",
+        "symbolSize": 2.6666666666666666,
+        "value": 1,
+        "category": 0
+      }
+    ],
+    "links": [
+      {
+        "source": "1",
+        "target": "0"
+      },
+      {
+        "source": "2",
+        "target": "0"
+      },
+      {
+        "source": "3",
+        "target": "0"
+      },
+      {
+        "source": "0",
+        "target": "4"
+      },
+      {
+        "source": "0",
+        "target": "5"
+      }
+    ],
+    "categories": [
+      {
+        "name": "类目0"
+      },
+      {
+        "name": "类目1"
+      },
+      {
+        "name": "类目2"
+      }
+    ]
+  }
