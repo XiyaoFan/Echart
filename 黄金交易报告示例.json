@@ -1,0 +1,643 @@
+{
+    "nodes": [
+{
+        "id": "11",
+        "name": "A_GOLDTRD_RPT",
+        "symbolSize": 4,
+        "category": 0
+        },
+{
+        "id": "105",
+        "name": "S_CRE_ENT_INFO",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "106",
+        "name": "S_CRE_CUSTOMER_INFO",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "111",
+        "name": "S_GDS_T_AUDT",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "118",
+        "name": "S_GDS_T_CNYGOLD_NQ",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "121",
+        "name": "S_GDS_T_CUST_IN",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "125",
+        "name": "S_GDS_T_USDGOLD_PS",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "133",
+        "name": "S_RTS_TERMS_AND_CONDITIONS",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "137",
+        "name": "S_STP_DMBOND",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "145",
+        "name": "S_STP_DMCUST_CLASS",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "146",
+        "name": "S_STP_DMCUSTOMER",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "157",
+        "name": "S_STP_DMSASSET",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "158",
+        "name": "S_STP_DMSEC",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "159",
+        "name": "S_STP_DMSECIDNT",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "171",
+        "name": "S_WDS_CBONDDESCRIPTION",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "172",
+        "name": "S_WDS_CBONDINDUSTRYWIND",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "174",
+        "name": "S_WDS_CBONDPLATEWIND",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "176",
+        "name": "S_WDS_CBONDCALL",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "177",
+        "name": "S_WDS_CBONDPUT",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "178",
+        "name": "S_WDS_CBONDFLOATINGRATE",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "182",
+        "name": "S_WDS_CBONDRATING",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "194",
+        "name": "S_WDS_CBONDPAYMENT",
+        "symbolSize": 4,
+        "category": 2
+        },
+{
+        "id": "214",
+        "name": "F_RD_CP_INFO",
+        "symbolSize": 22,
+        "category": 3
+        },
+{
+        "id": "215",
+        "name": "F_RD_BOND_INFO",
+        "symbolSize": 36,
+        "category": 3
+        },
+{
+        "id": "230",
+        "name": "F_TD_GOLDDEALS",
+        "symbolSize": 20,
+        "category": 3
+        },
+{
+        "id": "235",
+        "name": "F_RD_BOND_RATING",
+        "symbolSize": 6,
+        "category": 3
+        },
+{
+        "id": "242",
+        "name": "F_RD_ISSUER_RATING",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "256",
+        "name": "F_CM_CODE_MAP",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "310",
+        "name": "ENT_INFO",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "311",
+        "name": "CUSTOMER_INFO",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "313",
+        "name": "T_AUDT",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "319",
+        "name": "T_CNYGOLD_NQ",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "322",
+        "name": "T_CUST_IN",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "326",
+        "name": "T_USDGOLD_PS",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "334",
+        "name": "BOB_TC_YYYYMMDD.CSV",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "338",
+        "name": "DMBOND",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "346",
+        "name": "DMCUST_CLASS",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "347",
+        "name": "DMCUSTOMER",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "358",
+        "name": "DMSASSET",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "359",
+        "name": "DMSEC",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "360",
+        "name": "DMSECIDNT",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "372",
+        "name": "CBONDDESCRIPTION",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "373",
+        "name": "CBONDINDUSTRYWIND",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "375",
+        "name": "CBONDPLATEWIND",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "377",
+        "name": "CBONDCALL",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "378",
+        "name": "CBONDPUT",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "379",
+        "name": "CBONDFLOATINGRATE",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "383",
+        "name": "CBONDRATING",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "395",
+        "name": "CBONDPAYMENT",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "409",
+        "name": "S_RWA_M_HDCODE_FI_CODE_MAP_STP",
+        "symbolSize": 2,
+        "category": 2
+        },
+{
+        "id": "410",
+        "name": "F_CM_CP_INFO",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "411",
+        "name": "F_CM_BOND_TYPE",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "412",
+        "name": "T_F_CM_BOND_SUMMIT_TYPE",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "413",
+        "name": "F_CM_BOND_QUALIFIED_DISCOUNT",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "414",
+        "name": "T_F_RD_BOND_CURVE_MAPPING",
+        "symbolSize": 2,
+        "category": 4
+        },
+{
+        "id": "425",
+        "name": "F_CM_TYPE_T_AUDT",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "426",
+        "name": "F_CM_TYPE_T_CNYGOLD_NQ",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "427",
+        "name": "F_CM_PORT_T_USDGOLD_PS",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "428",
+        "name": "F_CM_PORT_T_AUDT",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "429",
+        "name": "F_CM_PORT_T_CNYGOLD_NQ",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "430",
+        "name": "F_CM_TYPE_T_USDGOLD_PS",
+        "symbolSize": 2,
+        "category": 3
+        },
+{
+        "id": "432",
+        "name": "F_RD_STANDARDIZATION_RATING",
+        "symbolSize": 2,
+        "category": 3
+        }
+    ],
+    "links": [
+{
+        "source": "230",
+        "target": "11"
+      },
+{
+        "source": "214",
+        "target": "11"
+      },
+{
+        "source": "310",
+        "target": "105"
+      },
+{
+        "source": "311",
+        "target": "106"
+      },
+{
+        "source": "313",
+        "target": "111"
+      },
+{
+        "source": "319",
+        "target": "118"
+      },
+{
+        "source": "322",
+        "target": "121"
+      },
+{
+        "source": "326",
+        "target": "125"
+      },
+{
+        "source": "334",
+        "target": "133"
+      },
+{
+        "source": "338",
+        "target": "137"
+      },
+{
+        "source": "346",
+        "target": "145"
+      },
+{
+        "source": "347",
+        "target": "146"
+      },
+{
+        "source": "358",
+        "target": "157"
+      },
+{
+        "source": "359",
+        "target": "158"
+      },
+{
+        "source": "360",
+        "target": "159"
+      },
+{
+        "source": "365",
+        "target": "164"
+      },
+{
+        "source": "372",
+        "target": "171"
+      },
+{
+        "source": "373",
+        "target": "172"
+      },
+{
+        "source": "375",
+        "target": "174"
+      },
+{
+        "source": "377",
+        "target": "176"
+      },
+{
+        "source": "378",
+        "target": "177"
+      },
+{
+        "source": "379",
+        "target": "178"
+      },
+{
+        "source": "383",
+        "target": "182"
+      },
+{
+        "source": "395",
+        "target": "194"
+      },
+{
+        "source": "146",
+        "target": "214"
+      },
+{
+        "source": "145",
+        "target": "214"
+      },
+{
+        "source": "121",
+        "target": "214"
+      },
+{
+        "source": "105",
+        "target": "214"
+      },
+{
+        "source": "106",
+        "target": "214"
+      },
+{
+        "source": "409",
+        "target": "214"
+      },
+{
+        "source": "215",
+        "target": "214"
+      },
+{
+        "source": "242",
+        "target": "214"
+      },
+{
+        "source": "410",
+        "target": "214"
+      },
+{
+        "source": "256",
+        "target": "214"
+      },
+{
+        "source": "158",
+        "target": "215"
+      },
+{
+        "source": "171",
+        "target": "215"
+      },
+{
+        "source": "137",
+        "target": "215"
+      },
+{
+        "source": "159",
+        "target": "215"
+      },
+{
+        "source": "133",
+        "target": "215"
+      },
+{
+        "source": "235",
+        "target": "215"
+      },
+{
+        "source": "172",
+        "target": "215"
+      },
+{
+        "source": "411",
+        "target": "215"
+      },
+{
+        "source": "412",
+        "target": "215"
+      },
+{
+        "source": "157",
+        "target": "215"
+      },
+{
+        "source": "178",
+        "target": "215"
+      },
+{
+        "source": "176",
+        "target": "215"
+      },
+{
+        "source": "177",
+        "target": "215"
+      },
+{
+        "source": "174",
+        "target": "215"
+      },
+{
+        "source": "413",
+        "target": "215"
+      },
+{
+        "source": "414",
+        "target": "215"
+      },
+{
+        "source": "194",
+        "target": "215"
+      },
+{
+        "source": "111",
+        "target": "230"
+      },
+{
+        "source": "425",
+        "target": "230"
+      },
+{
+        "source": "118",
+        "target": "230"
+      },
+{
+        "source": "426",
+        "target": "230"
+      },
+{
+        "source": "125",
+        "target": "230"
+      },
+{
+        "source": "427",
+        "target": "230"
+      },
+{
+        "source": "428",
+        "target": "230"
+      },
+{
+        "source": "429",
+        "target": "230"
+      },
+{
+        "source": "430",
+        "target": "230"
+      },
+{
+        "source": "432",
+        "target": "235"
+      },
+{
+        "source": "182",
+        "target": "235"
+      }
+    ],
+    "categories": [
+      {
+        "name": "A(分析层)"
+      },
+      {
+        "name": "I(接口层)"
+      },
+      {
+        "name": "S(贴源层)"
+      },
+      {
+        "name": "F(基础层)"
+      },
+      {
+        "name": "其他层"
+      }
+    ]
+  }
