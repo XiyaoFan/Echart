@@ -1,0 +1,46 @@
+{
+    "nodes": [
+ {
+        "id": "938",
+        "name": "I_SUM_TD_BOND.NOTIONAL",
+        "symbolSize": 11,
+        "category": 1
+        },
+ {
+        "id": "515",
+        "name": "F_TD_BONDSDEALS.POSITION",
+        "symbolSize": 12,
+        "category": 3
+        },
+ {
+        "id": "2148",
+        "name": "S_STP_DMBOND.NOTIONAL",
+        "symbolSize": 12,
+        "category": 2
+        }
+    ],
+    "links": [
+{
+        "source": "515",
+        "target": "938"
+      },
+{
+        "source": "2148",
+        "target": "515"
+      }
+    ],
+    "categories": [
+      {
+        "name": "A（分析层）"
+      },
+      {
+        "name": "I（接口层）"
+      },
+      {
+        "name": "S（贴源层）"
+      },
+      {
+        "name": "F（基础层）"
+      }
+    ]
+  }
